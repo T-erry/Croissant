@@ -1,7 +1,5 @@
 body {
   background-color: antiquewhite;
-  margin: 0;
-  padding: 0;
 }
 h1 {
   text-align: center;
@@ -19,4 +17,16 @@ p {
 a {
   display: flex;
   justify-content: space-evenly;
+}
+.croissant {
+  display: flex;
+  justify-content: center;
+}
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+a:visited {
+  color: green;
 }
