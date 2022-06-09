@@ -8,7 +8,7 @@ h1 {
 span img {
   width: 100px;
 }
-p {
+.paragraph-1 {
   text-align: center;
   line-height: 1.5;
   margin: 40px;
@@ -29,4 +29,7 @@ a {
 }
 a:visited {
   color: green;
+}
+.contact {
+  text-align: center;
 }
